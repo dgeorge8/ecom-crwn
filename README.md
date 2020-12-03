@@ -1,3 +1,6 @@
+You may view this project live @ https://live-crwn-ecom.herokuapp.com/  
+Please keep in mind this demo is hosted on a free Heroku plan. The server will need time to boot if app is in sleep mode. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
