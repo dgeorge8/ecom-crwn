@@ -3,6 +3,10 @@
 You may view this project live @ https://live-crwn-ecom.herokuapp.com/  
 Please keep in mind this demo is hosted on a free Heroku plan. The server will need time to boot app from sleep mode. 
 
+## Features
+
+This app demostrates the use of; SCSS, React Router DOM, Forms, FireBase + User Authentication, Firebase Firestore, Asyncronous Redux, Storage & persistance, Advanced Routing, Stripe Payments, HOC Patterns, React Hooks, Context API. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
