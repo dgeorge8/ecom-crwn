@@ -5,7 +5,7 @@ Please keep in mind this demo is hosted on a free Heroku plan. The server will n
 
 ## Features
 
-This app demostrates the use of; SCSS, React Router DOM, Forms, FireBase + User Authentication, Firebase Firestore, Asyncronous Redux, Storage & persistance, Advanced Routing, Stripe Payments, HOC Patterns, React Hooks, Context API. 
+This app demonstrates the use of; SCSS, React Router DOM, Forms, FireBase + User Authentication, Firebase Firestore, Asynchronous Redux, Storage & persistence, Advanced Routing, Stripe Payments, HOC Patterns, React Hooks, and Context API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
